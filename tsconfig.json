@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "jsx": "react",
+    "jsxFactory": "Nano.h",
+    "rootDir": "./src",
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": false,
+    "forceConsistentCasingInFileNames": true
+  }
+}
